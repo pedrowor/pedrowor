@@ -1,16 +1,21 @@
-## Hi there 👋
+# Pedro Henrique Costa de Azevedo
 
-<!--
-**pedrowor/pedrowor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Português](README.pt-BR.md)
 
-Here are some ideas to get you started:
+Systems Analysis and Development student based in Brazil, with professional experience in systems monitoring, incident identification, and user support. Interested in technical support, application support, networking, and Python automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical background:** Windows, Linux fundamentals, TCP/IP, DNS, DHCP, Python, SQL/SQLite, and Git.
+
+**Experience:** Systems Monitor at MovieIT (March 2023 – September 2024).  
+**Education:** Systems Analysis and Development, Estácio de Sá (expected 2027).  
+**English:** C1 (EF SET).
+
+## Selected projects
+
+- [Salon Appointment Manager](https://github.com/pedrowor/gerenciamento-de-salao) — Python, Tkinter, and SQLite desktop application (fork).
+- [ESP32 File Upload Prototype](https://github.com/pedrowor/esp32_proj) — ESP32, SPI/microSD, Wi-Fi, and experimental HTTP upload.
+- [Workshop Data Structures](https://github.com/pedrowor/proj_estrut_dado) — Customer records, queue, and attendance history in C.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/pedro-hc-azevedo/)
