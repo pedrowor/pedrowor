@@ -1,7 +1,5 @@
 # Pedro Henrique Costa de Azevedo
 
-[Português](README.pt-BR.md)
-
 Systems Analysis and Development student based in Brazil, with professional experience in systems monitoring, incident identification, and user support. Interested in technical support, application support, networking, and Python automation.
 
 **Technical background:** Windows, Linux fundamentals, TCP/IP, DNS, DHCP, Python, SQL/SQLite, and Git.
@@ -19,3 +17,4 @@ Systems Analysis and Development student based in Brazil, with professional expe
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/pedro-hc-azevedo/)
+[Português](README.pt-BR.md)
