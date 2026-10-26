@@ -1,7 +1,5 @@
 # Pedro Henrique Costa de Azevedo
 
-[English](README.md)
-
 Estudante de Análise e Desenvolvimento de Sistemas no Brasil, com experiência profissional em monitoramento de sistemas, identificação de ocorrências e suporte a usuários. Tenho interesse em suporte técnico, suporte a aplicações, redes e automação com Python.
 
 **Conhecimentos técnicos:** Windows, fundamentos de Linux, TCP/IP, DNS, DHCP, Python, SQL/SQLite e Git.
@@ -19,3 +17,5 @@ Estudante de Análise e Desenvolvimento de Sistemas no Brasil, com experiência 
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/pedro-hc-azevedo/)
+
+[English](README.md)
